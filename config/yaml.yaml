@@ -1,0 +1,1 @@
+mysql: mj:*@tcp(*.*.*.*:3306)/*?charset=utf8mb4&parseTime=True&loc=Local
